@@ -1,0 +1,17 @@
+.jumbotron{
+	background-image: url("../images/field.jpeg") ;
+	background-size: cover;
+	height: 550px;
+}
+article{
+	background-image: url("../images/farm.jpeg");
+	background-repeat: no-repeat;
+	height: 500px;
+}
+.padtop{
+	padding-top: 150px;
+}
+.padtop button{
+	 margin-top: 20px;
+	 width: 180px;
+}
